@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"smart-wallet.sol": "smartallet"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"smart-wallet.sol": {
+			"keccak256": "0x2bab540164c78dce7b795cd69eab2a192d22b81680097881425d5f3fde3043a9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://eba79c046c35b6d8b1411d54160ad47df7dcf6454d8d7f936fa87992e0bd38a4",
+				"dweb:/ipfs/QmdAntPTXtC6JbtqdTcAYL6resjfjhK6GUaZAnnFSPaVnM"
+			]
+		}
+	},
+	"version": 1
+}
