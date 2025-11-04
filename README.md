@@ -1,4 +1,3 @@
-````markdown
 # 🦊 Smart Wallet & Consumer Contracts
 
 This Solidity project demonstrates how to build a **Smart Wallet** system with **ownership control**, **allowances**, and **guardian recovery features** — along with a simple `Consumer` contract for testing deposits and balance checking.
